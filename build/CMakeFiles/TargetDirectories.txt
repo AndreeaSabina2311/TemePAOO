@@ -1,0 +1,3 @@
+E:/facultate/an4sem1/paoo/lab1/build/CMakeFiles/hello.dir
+E:/facultate/an4sem1/paoo/lab1/build/CMakeFiles/edit_cache.dir
+E:/facultate/an4sem1/paoo/lab1/build/CMakeFiles/rebuild_cache.dir
